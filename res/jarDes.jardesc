@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="lab70/Jar_Mao Zhang.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/lab70/jarDes.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=lab70/src&lt;script{GuiDriver.java[GuiDriver" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=lab70/src"/>
+        <folder path="/lab70/res"/>
+        <javaElement handleIdentifier="=lab70/test"/>
+        <file path="/lab70/README.md"/>
+    </selectedElements>
+</jardesc>

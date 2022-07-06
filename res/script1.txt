@@ -1,0 +1,37 @@
+load street.png
+blur
+save res\street-blurred.jpg
+load street.png
+edge-detection
+save res\street-edge-detection.jpg
+load street.png
+histogram-equalization
+save res\street-histogram-equalization.jpg
+load street.png
+sharpen
+save res\street-sharpened.png
+load street.png
+sepia
+save res\street-sepia.png
+load street.png
+grayscale
+save res\street-grayscale.png
+load street.png
+mosaic 2000
+save res\street-mosaic2000.png
+load food.png
+blur
+blur
+save res\food-blurred2.jpg
+load food.png
+sharpen
+sharpen
+sepia
+save res\food-sharpened2-sepia.png
+load food.png
+mosaic 200
+grayscale
+save res\food-mosaic200-grayscale.png
+load street.png
+dithering
+save res\street-dithering.png
