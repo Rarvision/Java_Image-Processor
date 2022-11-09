@@ -1,6 +1,6 @@
 # Image Processor Overview
 * This image processor has both console-based view and GUI followed the architecture pattern of MVC.
-* This image processor can handle various type of processing method including bluring, sharpening, dithering, sepia , gray-scale, histogram equalization and mosaic effect with adjustable amount of seeds.
+* This image processor can handle various types of processing methods including bluring, sharpening, dithering, sepia , gray-scale, histogram equalization and mosaic effect with adjustable amount of seeds.
 * Different kinds of diagram generators are also incorporated.
 * Integrated test classes are incorporated in the source codes.
 
