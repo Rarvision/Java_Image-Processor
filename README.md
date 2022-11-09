@@ -23,7 +23,6 @@ Beyond above, this image processor can let user generate simple pictures with gi
 The processor can automatically done multiple operations with only one boot. Users should provide proper configuration file (script) to input the order of operations.
 
 ## Limitation
-- The 6th function: dither has not been implemented yet.
 - The implementation of "Mosaic" can be further optimized. Now the runtime can be very long if large amount of seeds (> 20000) are provided.
 
 ## How to use
