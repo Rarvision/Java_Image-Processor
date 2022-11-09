@@ -10,7 +10,7 @@ This image processor has following functions:
 - Sharpening an image
 - Converting an image to a gray scale image
 - Converting an image to a enhanced gray scale image using histogram equalization
-- Concerting an image to a gray scale image with effect of edge detection
+- Converting an image to a gray scale image with effect of edge detection
 - Converting an image to a sepia-toned image
 - Converting an image to a dithering image
 - Applying mosaic effect to an image with adjustable amount of seeds
