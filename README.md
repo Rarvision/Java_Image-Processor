@@ -28,7 +28,7 @@ The processor can automatically done multiple operations with only one boot. Use
 ## How to use
 This procrssor provide two different user interfacrs. You can choose a console-based view or GUI view. To use the console-based view, run src/script/TextDriver.java. To use the GUI-based view run src/script/GuiDriver.java.
 
-To use the console-based image processor, user should open the IDE and change the Run Configuration, adding the file path of the script with extension into the program arguments.**Make sure that the file name should be the last argument.** If the path added is not an absolute path, it will be considered as a relative path to root directory of the project. Finally, run the java application through the *src\script\TextDriver* class then processing will launch according to the orders in the provided script file. User can check the processing status through the console.
+To use the console-based image processor, user should open the IDE and change the Run Configuration, adding the file path of the script with extension into the program arguments. **Make sure that the file name should be the last argument.** If the path added is not an absolute path, it will be considered as a relative path to root directory of the project. Finally, run the java application through the *src\script\TextDriver* class then processing will launch according to the orders in the provided script file. User can check the processing status through the console.
 
 To use the GUI-based image processor, user don't need to configure an script file. However, user can still lauch a script using GUI. In this case, the Run Configuration isn't need to be manully configured. A GUI-based processor is run through *src\script\GuiDriver.java*.
 
