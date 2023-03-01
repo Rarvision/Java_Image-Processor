@@ -4,8 +4,8 @@
 * Different kinds of diagram generators are also incorporated.
 * Integrated test classes are incorporated in the source codes.
 
-<img src="./media/img1.png">
 <img src="./media/img2.png">
+<img src="./media/img1.png">
 
 ## Features
 This image processor has following functions:
